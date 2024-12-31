@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://c1.wallpaperflare.com/preview/77/478/332/buildings-photos-karachi-landmark.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.main {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+#img1 {
+    border: 5px solid;
+    box-sizing: border-box;
+    margin-top: 5%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQucq0635vBUIKkLfd-ykbZSPcJw9AfsvbctQ&s);
+    background-size: cover;
+    transition: 5s !important;
+    border-radius: 10px;
+
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    margin-top: 10%;
+    padding-left: 65px;
+
+}
+
+#one {
+    color: white;
+    font-size: 50px;
+    margin-top: 10%;
+    padding-left: 38px;
+}
+
+button {
+    background-color: rgb(15, 92, 92);
+    color: white;
+    font-size: 18PX;
+    border-radius: 9px;
+    border-spacing: 50px;
+    padding: 6px 9px;
+    letter-spacing: 1px;
+    margin-left: 40%;
+    margin-top: 10%;
+    transition: 1s;
+    margin-bottom: 10px;
+
+}
+
+button:hover {
+    color: black;
+    background-color: rgb(121, 226, 226);
+}
+
+#bb {
+
+    background-color: rgb(15, 92, 92);
+    color: white;
+    font-size: 25PX;
+    border-radius: 9px;
+    border-spacing: 50px;
+    padding: 6px 9px;
+    letter-spacing: 1px;
+    margin-left: 47%;
+    margin-top: 5%;
+
+    margin-bottom: 10px;
+
+}
+
+button:hover {
+    color: black;
+    background-color: rgb(255, 255, 255);
+}
